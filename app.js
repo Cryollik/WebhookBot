@@ -22,7 +22,7 @@ bot.on("error", e => { console.error(e); });
 
 //Events
 bot.on("ready", ready => {
-  console.log(`Webhook Master logged in as ${bot.user.username}#${bot.user.discriminator}`);
+  console.log(`The web hook bot has logged in as ${bot.user.username}#${bot.user.discriminator}`);
 });
 
 //Commands
