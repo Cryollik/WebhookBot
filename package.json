@@ -1,7 +1,7 @@
 {
   "name": "webhook-master",
   "version": "1.0.0",
-  "description": "A Discord Bot to get and manage webhooks",
+  "description": "A discord bot to create and get web hooks.",
   "main": "app.js",
   "engines": {
     "node": "^8.9.0",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheAlgerianPrince/Webhook-Master.git"
+    "url": "git+https://github.com/Cryollik/WebhookBot.git"
   },
-  "author": "ᵀʰᵉᴬˡᵍᵉʳᶦᵃⁿᴾʳᶦⁿᶜᵉ#1097",
+  "author": "swadical#6636",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheAlgerianPrince/Webhook-Master/issues"
+    "url": "https://github.com/Cryollik/WebhookBot/issues"
   },
-  "homepage": "https://github.com/TheAlgerianPrince/Webhook-Master#readme"
+  "homepage": "https://github.com/Cryollik/WebhookBot#readme"
 }
